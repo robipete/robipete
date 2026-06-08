@@ -5,7 +5,7 @@
 -->
 
 
-# Hi, I'm Robi.
+# I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
