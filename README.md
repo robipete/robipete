@@ -4,8 +4,7 @@
 **robipete/robipete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-# I'm Robi.
+# Hi, I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
@@ -24,6 +23,7 @@ The direction:
 - hybrid search over existing enterprise data
 - vector and semantic workflows layered onto legacy search infrastructure
 - `JustSearch Signal`: a late-interaction retrieval and reranking layer for stronger second-stage relevance
+- a bolt-on architecture that can add parallel capacity for new AI/search workloads without forcing a full source-stack rebuild
 - secure local AI options for high-trust environments
 - operator-friendly tooling for migration, tuning, testing, and runtime packaging
 
