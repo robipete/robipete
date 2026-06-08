@@ -4,7 +4,7 @@
 **robipete/robipete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Robi.
+# I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
