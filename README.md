@@ -4,15 +4,17 @@
 **robipete/robipete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Robi.
+# # Hi, I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
-I'm a senior search, data, and AI/ML architect focused on high-availability open source search systems, data pipelines, relevance engineering, and secure local AI workflows. Over the years I've worked across ecommerce, healthcare, insurance, and hospitality, designing systems that go all the way from raw source data to the final ranked result.
+I’m a senior search, data, and AI/ML architect focused on high-availability open source search systems, data pipelines, relevance engineering, and secure local AI workflows. Over the years I’ve worked across ecommerce, healthcare, insurance, and hospitality, designing systems that go all the way from raw source data to the final ranked result.
 
 I’ve spent decades working in and around the Apache Solr ecosystem, including long-running participation on the Solr user mailing list under `robipete`, and I’ve been fortunate to build real friendships with members of the Solr community along the way.
 
 I believe in making order out of chaos, and prefer to give that order symmetry.
+
+Early in my career, I worked on Peacekeeper and MX missile systems at Rockwell Aerospace, which helped shape my bias toward reliability, security, and disciplined engineering.
 
 ## What I'm Building
 
