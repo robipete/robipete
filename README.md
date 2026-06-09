@@ -4,7 +4,7 @@
 **robipete/robipete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# I'm Robi.
+# # Hi, I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
@@ -12,7 +12,7 @@ I'm a senior search, data, and AI/ML architect focused on high-availability open
 
 I’ve spent decades working in and around the Apache Solr ecosystem, including long-running participation on the Solr user mailing list under `robipete`, and I’ve been fortunate to build real friendships with members of the Solr community along the way.
 
-I tend to work the same way in systems and in life: I take in chaos and turn it into symmetry. Sometimes that means tearing a thing down first so it can be rebuilt more cleanly, clearly, and durably.
+I believe in making order out of chaos, and prefer to give that order symmetry.
 
 ## What I'm Building
 
