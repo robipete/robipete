@@ -3,8 +3,7 @@
 <!--
 **robipete/robipete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-# # Hi, I'm Robi.
+# Hi, I'm Robi.
 
 I build the infrastructure that makes search and AI work at scale.
 
@@ -14,7 +13,7 @@ I’ve spent decades working in and around the Apache Solr ecosystem, including 
 
 I believe in making order out of chaos, and prefer to give that order symmetry.
 
-Early in my career, I worked on Peacekeeper and MX missile systems at Rockwell Aerospace, which helped shape my bias toward reliability, security, and disciplined engineering.
+Early in my career, I worked on the Peacekeeper and MX missile systems at Rockwell Aerospace, which helped shape my bias toward reliability, security, and disciplined engineering.
 
 ## What I'm Building
 
